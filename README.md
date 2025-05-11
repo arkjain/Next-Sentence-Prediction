@@ -1,11 +1,11 @@
 # Next-Sentence-Prediction
 
-This is a mini project developed for the Generative AI (GenAI) course at VIT Bhopal. It demonstrates how transformer-based language models can be used for context-aware sentence generation.
+This is a mini project developed for the Generative AI (GenAI) course. It demonstrates how transformer-based language models can be used for context-aware sentence generation.
 
-👨‍🎓 Student Details
+Student Details
 Name: Ark Jain
 
-Reg No.: [Add your registration number if needed]
+Reg No.: 22BCY10194
 
 Course: Generative AI (GenAI)
 
@@ -28,7 +28,7 @@ Python
 
 HuggingFace Transformers
 
-Google Colab / Jupyter Notebook
+Jupyter Notebook
 
 Streamlit
 
@@ -44,7 +44,4 @@ Run all cells to load the model.
 
 Enter your sentence in the prompt and generate predictions.
 
-🖥️ Streamlit Web App:
-Clone the repository.
 
-Install the dependencies:
